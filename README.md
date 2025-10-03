@@ -12,5 +12,5 @@ Management of glioma patients faces several clinical challenges:
 
 •	Manual delineation and interpretation of imaging are time-consuming, costly, and prone to inter-radiologist variability.
 
-To address these challenges, our approach emphasizes boundary-sensitive learning and multimodal feature fusion while maintaining computational efficiency suitable for large-scale clinical use. We hypothesize that incorporating biologically inspired mechanisms and attention-driven modules will enable the model to generate clinically relevant, interpretable predictions, bridging the gap between radiological imaging and precision oncology.
+To address these challenges, our approach emphasizes boundary-sensitive learning and multimodal feature fusion while maintaining computational efficiency suitable for large-scale clinical use. We hypothesize that incorporating biologically inspired  and attention-based methods will enable the model to generate clinically relevant, interpretable predictions, bridging the gap between radiological imaging and precision oncology.
 
